@@ -27,7 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f20548e-1416-47cb-a7c2-7f9bdb1a37fd" name="Default Changelist" comment="Agregar al commit ignore">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.quality.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,7 +68,7 @@
       <updated>1600232032219</updated>
       <workItem from="1600232033277" duration="2439000" />
       <workItem from="1600458468363" duration="680000" />
-      <workItem from="1600460861283" duration="2648000" />
+      <workItem from="1600460861283" duration="3123000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema">
       <created>1600461162068</created>
@@ -147,5 +147,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1600461275274" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600464064783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1600464064783" />
   </component>
 </project>
