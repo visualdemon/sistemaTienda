@@ -19,15 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f20548e-1416-47cb-a7c2-7f9bdb1a37fd" name="Default Changelist" comment="Agregar al commit ignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="1f20548e-1416-47cb-a7c2-7f9bdb1a37fd" name="Default Changelist" comment="Ignore File con Api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +67,7 @@
       <updated>1600232032219</updated>
       <workItem from="1600232033277" duration="2439000" />
       <workItem from="1600458468363" duration="680000" />
-      <workItem from="1600460861283" duration="3123000" />
+      <workItem from="1600460861283" duration="3865000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema">
       <created>1600461162068</created>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600462243036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ignore File con Api">
+      <created>1600464104356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600464104356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +119,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -128,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sistema" />
     <MESSAGE value="Agregar al commit ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregar al commit ignore" />
+    <MESSAGE value="Ignore File con Api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignore File con Api" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1600234065586">
