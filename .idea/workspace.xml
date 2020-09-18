@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -16,8 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f20548e-1416-47cb-a7c2-7f9bdb1a37fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1f20548e-1416-47cb-a7c2-7f9bdb1a37fd" name="Default Changelist" comment="Agregar al commit ignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +34,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ComposerSettings">
     <execution />
   </component>
@@ -58,7 +68,7 @@
       <updated>1600232032219</updated>
       <workItem from="1600232033277" duration="2439000" />
       <workItem from="1600458468363" duration="680000" />
-      <workItem from="1600460861283" duration="1160000" />
+      <workItem from="1600460861283" duration="2648000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema">
       <created>1600461162068</created>
@@ -67,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600461162068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Agregar al commit ignore">
+      <created>1600462042894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600462042894</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Agregar al commit ignore">
+      <created>1600462243036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600462243036</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +105,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
               <option name="FILTERS">
@@ -103,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sistema" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema" />
+    <MESSAGE value="Agregar al commit ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar al commit ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1600234065586">
@@ -114,6 +139,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1600233591001" />
+    <state x="180" y="116" width="1736" height="856" key="DiffContextDialog" timestamp="1600462546016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="180" y="116" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1600462546016" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1600461275274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
